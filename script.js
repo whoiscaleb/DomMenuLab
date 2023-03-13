@@ -25,5 +25,5 @@ topMenuEl.classList.add("flex-around");
 
 const links = menuLinks.map(link => `<a href='${link.href}'>${link.text}</a>`);
 
-topMenuEl.setAttribute
+
 
